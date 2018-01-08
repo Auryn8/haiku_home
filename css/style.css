@@ -9,7 +9,7 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
-/* Estilos del header*/
+/*Header*/
 header {
   left: 0;
   font-weight: 700;
@@ -127,7 +127,6 @@ p {
 }
 
 .card {
-  border: 1px solid #CCCCCC;
   margin-top: 1rem;
   padding: 1rem;
 }
@@ -205,9 +204,6 @@ footer p {
     margin: 0 7rem;
   }
 
-  .nav-left {
-    padding-left: 1rem;
-  }
 
   .title {
     padding-top: 6rem;
