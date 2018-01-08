@@ -1,0 +1,219 @@
+* {
+  background-color: antiquewhite;    
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+/* Estilos del header*/
+header {
+  left: 0;
+  font-weight: 700;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.nav-box {
+  background-color: antiquewhite;
+  color: #000;
+}
+
+nav {
+  overflow: hidden;
+  padding: 1rem; /*La unidad de medida rem es muy similar a em, con la única diferencia de que no es escalable, esto quiere decir que no depende del elemento padre, sino del elemento raíz del documento, el elemento HTML. Rem significa “Root Em“, o sea, es un em basado en la raíz.*/
+}
+
+.nav-title {
+  float: left;
+  font-size: 1.25rem;
+}
+
+nav a {
+  color: inherit;
+  display: inline-block;
+  padding-top: .3125rem;
+  padding-bottom: .3125rem;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color:darkred;
+}
+/*Mobile menu*/
+
+.view-mobile {
+  float: right;
+  display: block;
+}
+
+/*Desktop menu*/
+
+.list-item {
+  display: inline-block;
+  padding: 0.3rem 1rem;
+}
+
+.view-desktop {
+  float: right;
+  display: none;
+}
+
+/*Portada*/
+.cover {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 75% 25%;
+  margin-top: 3rem;
+  width:100%;
+}
+
+.title {
+  text-align: center;
+  color: #4F4631;
+  padding: 2rem 0;
+}
+
+h1 {
+    color: darkred;
+    font-weight: bold;
+}
+
+h2 {
+  font-size: 1.3em;
+  font-weight: 400;
+  padding-top: .8rem;
+}
+
+
+/*Contenido principal*/
+.container {
+  padding: 1rem 1rem;
+}
+
+
+p {
+  text-align: justify;    
+  line-height: 1em;
+  padding-top: 1rem;
+}
+
+.btn {
+  background-color: #4F4631;
+  border: none;
+  border-radius: 5px;
+  color: #ffff;
+  font-family: inherit;
+  font-size: .8em;
+  outline: none;
+}
+
+.btn:hover {
+  background-color: darkred;
+
+}
+
+
+.more { /*call t0 acction*/
+  font-size: 12px;
+  margin-top: .8rem;
+  padding: 0.7em;
+}
+
+.card {
+  border: 1px solid #CCCCCC;
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+}
+
+.text-card {
+  padding: 1rem 1rem;
+}
+
+h3 {
+  color: #000;
+  font-size: 1.5rem;
+}
+
+.card figure {
+  height: 250px;
+  filter: grayscale(90%);
+}
+
+.card iframe {
+width: 100%;
+}
+.card figure:hover {
+  filter: none;
+}
+
+
+
+/* Estilos de pie de pagina*/
+footer p {
+  padding: 2.5rem;
+  text-align: center;
+}
+
+/* Styles Tablet */
+@media (min-width: 768px) {
+  .view-desktop {
+    display: block;
+  }
+
+  .view-mobile {
+    display: none;
+  }
+
+  .resp-padding {
+    padding-right: 1.5rem;
+  }
+
+  .title {
+    padding-top: 3rem;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  .card iframe {
+    width: 100%;
+  }
+
+
+}
+
+/* Styles Desktop */
+@media (min-width: 992px) {
+  nav {
+    margin: 0 6rem;
+  }
+
+  .container {
+    margin: 0 7rem;
+  }
+
+  .nav-left {
+    padding-left: 1rem;
+  }
+
+  .title {
+    padding-top: 6rem;
+  }
+
+  .card iframe {
+    width: 100%;
+  }
+}
