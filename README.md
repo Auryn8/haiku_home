@@ -19,8 +19,9 @@ En un segundo alcance, se propone una red social en la que se puedan escribir y 
 El segundo alcance de esta página web es una red social a través de la cual los usuarios puedan compartir sus Haikus.
 Se llama shippitsu porque esa palabra significa escritura en japonés.
 
-[Red social](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-0.jpg)
-[Capital Social](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-1.jpg)
+[Portada](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-0.jpg)
+[Red social](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-1.jpg)
+[Capital Social](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-2.jpg)
 [Quote](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-3.jpg)
 [¿Qué es un Haiku?](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-4.jpg)
 [Nuestros usuarios](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-5.jpg)
