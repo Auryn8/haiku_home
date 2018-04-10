@@ -1,3 +1,5 @@
+![screencapture-auryn8-github-io-haiku_home-2018-04-10-15_55_30](https://user-images.githubusercontent.com/32871457/38583139-ba19b30c-3cd7-11e8-9820-bffffe963809.png)
+
 # HAIKU WEBSITE
 
 Sitio dedicado al arte y práctica del haiku.
