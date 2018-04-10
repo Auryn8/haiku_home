@@ -2,7 +2,7 @@
 
 # HAIKU WEBSITE
 
-Sitio dedicado al arte y práctica del haiku.
+Sitio dedicado al arte y práctica del haiku con expectativa de crecimiento hacia una red social para compartir entre usuarios llamada Shippitsu. 
 
 ## La interfaz
 
@@ -26,3 +26,18 @@ La estructura de la página es la siguiente:
 ### Responsive
 
 ![Estructura mobile](./assets/images/responsive.png)
+
+
+# Shippitsu
+
+El segundo alcance de esta página web es una red social a través de la cual los usuarios puedan compartir sus Haikus.
+Se llama shippitsu porque esa palabra significa escritura en japonés.
+
+[Red social](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-0.jpg)
+[Capital Social](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-1.jpg)
+[Quote](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-3.jpg)
+[¿Qué es un Haiku?](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-4.jpg)
+[Nuestros usuarios](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-5.jpg)
+[Nuestros clientes](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-6.jpg)
+[Nuestra propuesta](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-7.jpg)
+[Nuestra interfaz](https://github.com/Auryn8/haiku_home/blob/master/assets/ppt-img/d1a6a7ce9ae97cd9502b2bd5630f2a17-8.jpg)
